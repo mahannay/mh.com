@@ -1,0 +1,48 @@
+html {
+	background-color: #222;
+}
+
+.title {
+	text-align:right;
+	right: 1rem;
+	position:relative;
+	display:block;
+}
+
+h1 {
+	font-size: 6rem;
+	margin: 0;
+	color: rgba(199,0,57,1);
+	font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+	font-family: 'Lato';
+	color: #fff;
+	font-size: 2rem;
+}
+
+.about {
+    display: block;
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+
+#homebackground {
+	height:70vh;
+	margin:auto;
+    display: block;
+    object-fit: contain;
+}
+
+#contact {
+	width: 100%;
+	text-align:center;
+}
+
+a {
+	text-decoration:none;
+	color: #fff;
+}
+
